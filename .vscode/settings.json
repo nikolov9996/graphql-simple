@@ -1,3 +1,8 @@
 {
-  "cSpell.words": ["graphiql", "QLID"]
+  "cSpell.words": ["Apolo", "appolo", "graphiql", "QLID"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFoldingRangeProvider": null,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
